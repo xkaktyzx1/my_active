@@ -2,11 +2,6 @@
 
 ## xkaktyzx activity
 
-</details>
-
-<details>
-  <summary>Active non-Cosmos Testnets</summary>
-  
   <details>
   <summary>Finished Testnets</summary>
 - [Aleo]()
@@ -48,9 +43,7 @@
 - [Zenon]()
 - [Nym]()
  
-
-
-
+</details>
 
 <details>
   <summary>My social links</summary>
